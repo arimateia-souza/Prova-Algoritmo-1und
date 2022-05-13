@@ -21,6 +21,6 @@ elif (media >= 0.0 and media < 5.0 ):
 elif (media > 10.0 or media < 0.0):
     print("Você digitou alguma(as) nota(as) invalida(as)")
 
-
+#comentario
 
 
